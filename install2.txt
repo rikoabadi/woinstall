@@ -1,1 +1,1 @@
-
+echo -e "alias wo='sudo -E wo'" >> $HOME/.bashrc
