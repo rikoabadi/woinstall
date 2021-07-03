@@ -1,0 +1,1 @@
+wget -qO wo wops.cc && sudo bash wo --force
